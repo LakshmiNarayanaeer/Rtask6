@@ -6,7 +6,7 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Ruthvik Kanagani</h1>
+        <h1>Lakshmi Narayana</h1>
         <p>Web Developer</p>
       </header>
       <section className="about">
@@ -28,7 +28,7 @@ const Portfolio = () => {
       </section>
       <section className="contact">
         <h2>Contact</h2>
-        <p>You can reach me at ruthvikkangani@gmail.com</p>
+        <p>You can reach me at lakshminarayana2513@gmail.com</p>
       </section>
     </div>
   );
